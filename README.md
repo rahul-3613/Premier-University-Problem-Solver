@@ -12,7 +12,7 @@
 
 ### -- Live Website এ Visit করুন | Click to Open --
 
-<a href="https://rahul-3613.github.io/Puc-Problem-Sover/" target="_blank">
+<a href="https://premier-university-problem-sover.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%BA%20%20LIVE%20WEBSITE%20--%20PUC%20HUB%20--%20Click%20Here%20%20%E2%96%BA-f39c12?style=for-the-badge&labelColor=1a0a00&logo=googlechrome&logoColor=f39c12" height="50"/>
 </a>
 
