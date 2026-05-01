@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=Premier+University+Chittagong+-+Student+Hub;AI+Powered+Study+Tools+%7C+30%2B+Features;Built+by+Team+PUC+HUB+%7C+Lab+Project+2024" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=Premier+University+Chittagong+-+Student+Hub;Study+Tools+%7C+30%2B+Features;Built+by+Team+PUC+HUB+%7C+Lab+Project+2026" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -55,7 +55,7 @@
   University  |  Premier University Chittagong
   Project     |  Internet Programming Lab — Semester Project 2024
   Features    |  30+ Services, AI Powered, Mobile Friendly
-  Team        |  Rahul, Alvi, Ador, Rudra
+  Team        |  Rahul, Alvi, Ador, Rudra ,Tabib
 ```
 
 ---
