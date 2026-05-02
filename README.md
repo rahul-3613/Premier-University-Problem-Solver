@@ -202,31 +202,6 @@ puc-hub/
 
 ---
 
-## ইনস্টলেশন | Installation Guide
-
-**Prerequisites**
-```
-XAMPP / WAMP / LAMP Server
-PHP 7.4+
-MySQL 5.7+
-Modern Web Browser
-```
-
-**Step-by-step Setup**
-
-```bash
-# Step 1 — Clone করুন
-git clone https://github.com/rahul-3613/Puc-Problem-Sover.git
-
-# Step 2 — XAMPP htdocs-এ রাখুন
-# C:\xampp\htdocs\puc_hub\
-
-# Step 3 — Database Import করুন (phpMyAdmin)
-SOURCE puc_hub.sql;
-
-# Step 4 — Browser-এ চালু করুন
-# http://localhost/puc_hub/
-```
 
 **config.php আপডেট করুন**
 ```php
