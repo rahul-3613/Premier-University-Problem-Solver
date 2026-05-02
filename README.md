@@ -209,9 +209,6 @@ define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_NAME', 'puc_hub');
-```
-
-> Warning: Default admin password হলো `password` — প্রথম Login-এর পরেই পরিবর্তন করুন।
 
 ---
 
